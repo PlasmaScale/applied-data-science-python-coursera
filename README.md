@@ -1,1 +1,1 @@
-# applied-data-science-python-coursera
+# Applied Plotting, Charting & Data Representation in Python
